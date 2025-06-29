@@ -115,3 +115,22 @@ def index():
 @app.get("/products")
 def get_products():
     return products
+
+
+# from fastapi import FastAPI
+# from fastapi.middleware.cors import CORSMiddleware
+
+# app = FastAPI()
+
+# # CORS (opcional si usás frontend local)
+# app.add_middleware(
+#     CORSMiddleware,
+#     allow_origins=["*"],  # o tu frontend: ["http://127.0.0.1:5500"]
+#     allow_credentials=True,
+#     allow_methods=["*"],
+#     allow_headers=["*"],
+# )
+
+# @app.get("/")
+# def index():
+#     return {"message": "Hola Mundo"}
