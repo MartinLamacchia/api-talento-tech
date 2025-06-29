@@ -21,7 +21,7 @@ products = [
         "category": "accesorios",
         "price": 5400,
         "stock": 3,
-        "image": "../images/products/product1.png",
+        "image": "./images/products/product1.png",
         "amountToCart": 0
     },
     {
@@ -31,7 +31,7 @@ products = [
         "category": "accesorios",
         "price": 3200,
         "stock": 5,
-        "image": "../images/products/product2.png",
+        "image": "./images/products/product2.png",
         "amountToCart": 0
     },
     {
@@ -41,7 +41,7 @@ products = [
         "category": "accesorios",
         "price": 15400,
         "stock": 2,
-        "image": "../images/products/product3.png",
+        "image": "./images/products/product3.png",
         "amountToCart": 0
     },
     {
@@ -51,7 +51,7 @@ products = [
         "category": "monitor",
         "price": 35000,
         "stock": 2,
-        "image": "../images/products/product4.png",
+        "image": "./images/products/product4.png",
         "amountToCart": 0
     },
     {
@@ -61,7 +61,7 @@ products = [
         "category": "placa de video",
         "price": 155000,
         "stock": 1,
-        "image": "../images/products/product5.png",
+        "image": "./images/products/product5.png",
         "amountToCart": 0
     },
     {
@@ -71,7 +71,7 @@ products = [
         "category": "computadora",
         "price": 254000,
         "stock": 4,
-        "image": "../images/products/product6.png",
+        "image": "./images/products/product6.png",
         "amountToCart": 0
     },
     {
@@ -81,7 +81,7 @@ products = [
         "category": "celular",
         "price": 134000,
         "stock": 3,
-        "image": "../images/products/product7.png",
+        "image": "./images/products/product7.png",
         "amountToCart": 0
     },
     {
@@ -91,7 +91,7 @@ products = [
         "category": "celular",
         "price": 104000,
         "stock": 5,
-        "image": "../images/products/product8.png",
+        "image": "./images/products/product8.png",
         "amountToCart": 0
     },
     {
@@ -101,7 +101,7 @@ products = [
         "category": "celular",
         "price": 224000,
         "stock": 8,
-        "image": "../images/products/product9.png",
+        "image": "./images/products/product9.png",
         "amountToCart": 0
     }
 ]
